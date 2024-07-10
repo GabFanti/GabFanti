@@ -22,4 +22,4 @@ Meu nome é Gabriel, sou formado no ensino médio técnico integrado com tecnolo
 
 ## 👥 Onde me encontrar
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gabriel-fanti-a2846424b/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD3TZsABo3OzpJ-9P8ULUbaGVLJAWvvomgk&keywords=gabriel%20fanti&origin=RICH_QUERY_SUGGESTION&position=0&searchId=3ece83e2-66f1-47ff-9251-ce9992f04b37&sid=9j!&spellCorrectionEnabled=false)
