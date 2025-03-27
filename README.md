@@ -1,6 +1,9 @@
 ## Olá 👋
 
-Meu nome é Gabriel, sou formado no ensino médio técnico integrado com tecnologia da informação, atualmente estou no quarto semestre do curso de Análise e Desenvolvimento de sistemas. Estou cada vez mais buscando realizar cursos e projetos para me especializar.
+Meu nome é Gabriel, sou formado em Análise e Desenvolvimento de Sistemas e concluí o ensino médio
+integrado à área de Tecnologia da Informação. Atualmente, estou cursando Engenharia de Software na
+FIAP, onde estou buscando aprimorar cada vez mais meus conhecimentos e habilidades, estou em busca da
+minha primeira oportunidade profissional no setor de tecnologia
  
 
 <div>
